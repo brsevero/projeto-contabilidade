@@ -1,0 +1,41 @@
+﻿mes,n_lancamento,data,doc,descricao,conta_debito,conta_credito,valor
+Mai,01,,CS,Integralização do capital (Bruno 50% / Sophia 50%),Banco,Capital Social,100000
+Mai,02,,NF,Compra de estoque (peças) e ferramentas (à vista),Equipamentos de TI,Banco,8000
+Mai,03,2026-05-02,RC,Pagamento de aluguel da loja em Penedo/AL,Desp. Aluguel,Banco,1200
+Mai,04,2026-05-03,RC,Pagamento taxas de abertura – Junta/Alvará,Desp. Pre-operacional,Banco,350
+Mai,05,2026-05-05,REC,Venda de celulares e acessórios (à vista),Banco,Rec. Servicos,5000
+Mai,06,,NFS,Serviços de conserto de telas e placas (a prazo),Clientes,Rec. Servicos,12000
+Mai,07,2026-05-31,FP,Salário do funcionário técnico (CLT) – maio/2026,Desp. Salarios,Banco,2500
+Mai,08,2026-05-31,FP,FGTS sobre salário (8%) – maio/2026,Desp. FGTS,FGTS a Recolher,200
+Mai,09,2026-05-31,FP,INSS patronal (20%) sobre salário – maio/2026,Desp. INSS Patronal,INSS a Recolher,500
+Mai,10,2026-05-31,FP,Pró-labore de Sofia (administradora) – maio/2026,Desp. Pro-labore,Banco,2490
+Mai,10b,2026-05-31,FP,INSS sobre pró-labore (11% sócio + 20% patronal),Desp. INSS Patronal,INSS a Recolher,510
+Mai,11,2026-05-31,RC,Material de escritório – maio/2026,Desp. Mat. Escritorio,Banco,320
+Mai,12,2026-05-31,RC,Internet + telefone – maio/2026,Desp. Telecom,Banco,280
+Mai,13,2026-05-15,REC,Recebimento parcial – Cliente B (50%),Banco,Clientes,6000
+Mai,14,2026-05-31,GIA,DAS – Simples Nacional apurado – maio/2026,Desp. Tributos,DAS a Recolher,1020
+Mai,15,2026-05-31,AJ,Depreciação equipamentos TI – maio/2026,Desp. Depreciacao,Depreciacao Acumulada,133
+Jun,16,2026-06-05,REC,Venda de celulares e acessórios (à vista),Banco,Rec. Servicos,8500
+Jun,17,2026-06-10,NFS,Receita – Cliente B (continuação projeto maio),Clientes,Rec. Servicos,15000
+Jun,15/05,2026-06-10,REC,Recebimento saldo Cliente B – maio,Banco,Clientes,6000
+Jun,18,2026-06-30,FP,Salário funcionário CLT – junho/2026,Desp. Salarios,Banco,2500
+Jun,19,2026-06-30,FP,FGTS (8%) + INSS patronal (20%) – junho/2026,Desp. INSS Patronal,INSS a Recolher,700
+Jun,20,2026-06-30,FP,Pró-labore Sofia – junho/2026,Desp. Pro-labore,Banco,2490
+Jun,21,2026-06-30,RC,Pagamento de aluguel da loja em Penedo/AL– junho/2026,Desp. Aluguel,Banco,1200
+Jun,22,2026-06-30,RC,Telecom + material escritório – junho/2026,Desp. Telecom,Banco,600
+Jun,23,2026-06-10,GP,Recolhimento DAS maio (do Passivo),DAS a Recolher,Banco,1020
+Jun,24,2026-06-10,GP,Recolhimento FGTS + INSS maio,FGTS a Recolher,Banco,1210
+Jun,25,2026-06-20,NF,Compra de mesa e cadeiras (ativo fixo),Moveis e Utensilios,Banco,1500
+Jun,26,2026-06-30,GIA,DAS – Simples Nacional – junho/2026,Desp. Tributos,DAS a Recolher,1410
+Jun,27,2026-06-30,AJ,Depreciação equipamentos + móveis – junho/2026,Desp. Depreciacao,Depreciacao Acumulada,158
+Jul,28,2026-07-10,REC,Receita serviço – Cliente D (à vista),Banco,Rec. Servicos,10000
+Jul,29,2026-07-10,NFS,"Receita – Cliente B (3.º contrato, a prazo 45 dias)",Clientes,Rec. Servicos,18200
+Jul,30,2026-07-31,FP,Salário – 2 funcionários CLT – julho/2026,Desp. Salarios,Banco,5500
+Jul,31,2026-07-31,FP,FGTS + INSS patronal – julho/2026,Desp. INSS Patronal,INSS a Recolher,1540
+Jul,32,2026-07-31,FP,Pró-labore Sofia – julho/2026,Desp. Pro-labore,Banco,2490
+Jul,33,2026-07-31,RC,Aluguel – julho/2026,Desp. Aluguel,Banco,1200
+Jul,34,2026-07-31,RC,Telecom + escritório – julho/2026,Desp. Telecom,Banco,650
+Jul,35,2026-07-10,GP,Recolhimento DAS junho,DAS a Recolher,Banco,1410
+Jul,36,2026-07-10,NF,Compra impressora (ativo fixo),Moveis e Utensilios,Banco,800
+Jul,37,2026-07-31,GIA,DAS – Simples Nacional – julho/2026,Desp. Tributos,DAS a Recolher,1692
+Jul,38,2026-07-31,AJ,Depreciação todos os ativos – julho/2026,Desp. Depreciacao,Depreciacao Acumulada,171
